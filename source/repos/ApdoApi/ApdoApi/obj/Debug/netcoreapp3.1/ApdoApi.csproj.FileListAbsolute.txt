@@ -1,0 +1,13 @@
+C:\Users\napra\source\repos\ApdoApi\ApdoApi\obj\Debug\netcoreapp3.1\ApdoApi.csprojAssemblyReference.cache
+C:\Users\napra\source\repos\ApdoApi\ApdoApi\obj\Debug\netcoreapp3.1\ApdoApi.AssemblyInfoInputs.cache
+C:\Users\napra\source\repos\ApdoApi\ApdoApi\obj\Debug\netcoreapp3.1\ApdoApi.AssemblyInfo.cs
+C:\Users\napra\source\repos\ApdoApi\ApdoApi\bin\Debug\netcoreapp3.1\ApdoApi.exe
+C:\Users\napra\source\repos\ApdoApi\ApdoApi\bin\Debug\netcoreapp3.1\ApdoApi.deps.json
+C:\Users\napra\source\repos\ApdoApi\ApdoApi\bin\Debug\netcoreapp3.1\ApdoApi.runtimeconfig.json
+C:\Users\napra\source\repos\ApdoApi\ApdoApi\bin\Debug\netcoreapp3.1\ApdoApi.runtimeconfig.dev.json
+C:\Users\napra\source\repos\ApdoApi\ApdoApi\bin\Debug\netcoreapp3.1\ApdoApi.dll
+C:\Users\napra\source\repos\ApdoApi\ApdoApi\bin\Debug\netcoreapp3.1\ApdoApi.pdb
+C:\Users\napra\source\repos\ApdoApi\ApdoApi\obj\Debug\netcoreapp3.1\ApdoApi.dll
+C:\Users\napra\source\repos\ApdoApi\ApdoApi\obj\Debug\netcoreapp3.1\ApdoApi.pdb
+C:\Users\napra\source\repos\ApdoApi\ApdoApi\obj\Debug\netcoreapp3.1\ApdoApi.csproj.CoreCompileInputs.cache
+C:\Users\napra\source\repos\ApdoApi\ApdoApi\obj\Debug\netcoreapp3.1\ApdoApi.genruntimeconfig.cache
